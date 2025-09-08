@@ -2,10 +2,6 @@
 
 This repository contains examples and tutorials for using AutoGluon, an AutoML library that enables easy-to-use and easy-to-extend AutoML with a focus on automated stack ensembling, deep learning, and real-world applications spanning image, text, and tabular data.
 
-## Quick Start Guides
-- Multimodal Quick Start
-- Time Series Quick Start
-
 ## Tutorials
 
 ### Tabular

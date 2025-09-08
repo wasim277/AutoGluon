@@ -22,35 +22,3 @@
 
 
 ### Cloud Training and Deployment
-
-
-## Resources
-
-### FAQs
-- Tabular FAQ
-- Multimodal FAQ
-- Time Series FAQ
-
-### Additional Resources
-- Cheat Sheets
-- Versions
-- What's New
-- GitHub Repository
-
-## Requirements
-
-```bash
-pip install autogluon.tabular[all]
-```
-
-## Usage
-
-Each notebook is self-contained and can be run independently. The notebooks include detailed explanations and examples for different aspects of AutoGluon.
-
-## Contributing
-
-Feel free to open issues or submit pull requests if you find any problems or have suggestions for improvements.
-
-## License
-
-This project is licensed under the Apache-2.0 License.

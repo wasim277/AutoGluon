@@ -1,16 +1,20 @@
-# Tabular
+# AutoGluon Examples and Tutorials
 
 This repository contains examples and tutorials for using AutoGluon, an AutoML library that enables easy-to-use and easy-to-extend AutoML with a focus on automated stack ensembling, deep learning, and real-world applications spanning image, text, and tabular data.
 
-## Contents
+## Quick Start Guides
+- Multimodal Quick Start
+- Time Series Quick Start
 
-### Basic Tutorials
+## Tutorials
+
+### Tabular
 - `Tabular/tabular_quick_start.ipynb`: Quick start guide for tabular prediction
 - `Tabular/tabular_essentials.ipynb`: Essential functionality for tabular prediction
 - `Tabular/tabular_feature_engineering.ipynb`: Guide to feature engineering
 - `Tabular/tabular_multimodal.ipynb`: Working with multimodal data
 
-### Advanced Tutorials
+#### Advanced Tabular
 - `Tabular/Advanced/tabular_custom_metric.ipynb`: Adding custom evaluation metrics
 - `Tabular/Advanced/tabular_custom_model.ipynb`: Creating custom models
 - `Tabular/Advanced/tabular_custom_model_advanced.ipynb`: Advanced custom model features
@@ -19,8 +23,27 @@ This repository contains examples and tutorials for using AutoGluon, an AutoML l
 - `Tabular/Advanced/tabular_kaggle.ipynb`: Using AutoGluon for Kaggle competitions
 - `Tabular/Advanced/tabular_multilabel.ipynb`: Multi-label prediction
 
-### Multimodal Examples
-- `Tabular/multimodal_text_tabular.ipynb`: Combining text and tabular data
+### Multimodal
+Coming soon...
+
+### Time Series
+Coming soon...
+
+### Cloud Training and Deployment
+Coming soon...
+
+## Resources
+
+### FAQs
+- Tabular FAQ
+- Multimodal FAQ
+- Time Series FAQ
+
+### Additional Resources
+- Cheat Sheets
+- Versions
+- What's New
+- GitHub Repository
 
 ## Requirements
 

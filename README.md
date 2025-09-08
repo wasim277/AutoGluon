@@ -24,13 +24,13 @@ This repository contains examples and tutorials for using AutoGluon, an AutoML l
 - `Tabular/Advanced/tabular_multilabel.ipynb`: Multi-label prediction
 
 ### Multimodal
-Coming soon...
+
 
 ### Time Series
-Coming soon...
+
 
 ### Cloud Training and Deployment
-Coming soon...
+
 
 ## Resources
 
